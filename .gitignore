@@ -1,0 +1,6 @@
+/.codex/
+.toolmesh.json
+.venv/
+/coverage.out
+/toolmesh
+/toolmesh.exe
